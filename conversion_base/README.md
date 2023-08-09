@@ -1,6 +1,6 @@
 for the cmd you must be follow that order :
 
-1. put the path of the folder of conversion_base in the cmd
+1. put path of the folder of conversion_base in the cmd
 2. put that code : python base.exe
 
 for the IDE you must be follow that order:
