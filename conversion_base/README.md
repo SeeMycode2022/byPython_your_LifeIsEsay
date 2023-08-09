@@ -1,10 +1,8 @@
 for the cmd you must be follow that order :
-
-1. put path of the folder of conversion_base in the cmd
-2. put that code : python base.exe
+1. put path of conversion_base folder in the cmd
+2. and run by put : python base.exe inthe cmd bash
 
 for the IDE you must be follow that order:
-
 1. open your IDE (vscode , vscode studio , pycharm....etc)
 2. open the conversion_base folder in the work space
 3. and make sure the base.exe is open in new tab
